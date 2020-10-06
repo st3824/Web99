@@ -1,2 +1,3 @@
-# Web99
-Web99 2020
+# Fake News Detection
+
+This uses Machine Learning algorithms to predict the "fake news".
